@@ -89,11 +89,6 @@ With business analytics being an integral part of modern management, this course
 * Week 10	
   * Assignment Presentations and Summary
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
 ## About Prof. DAVID SIMCHI-LEVI ##
 
 <p align="center">
